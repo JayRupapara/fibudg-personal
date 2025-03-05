@@ -1,10 +1,10 @@
 import React, { useState, useRef, useEffect, useCallback, useMemo } from 'react';
 import LaptopImg from '../assets/Laptop.png';
 import ScreenImg from '../assets/screen.png';
-import FiBudgLogo from '../assets/logo.png';
+import FiBudgLogo from '../assets/Logo.png';
 import MobileScreen from '../assets/mobilescreen.png';
-import Frame16 from '../assets/frame16.png';
-import Frame17 from '../assets/frame17.png';
+import Frame16 from '../assets/Frame16.png';
+import Frame17 from '../assets/Frame17.png';
 import AppleComputers from '../assets/Apple_Computers.png';
 import ThirdMerge from '../assets/3rdmerge.png';
 import PropTypes from 'prop-types';
