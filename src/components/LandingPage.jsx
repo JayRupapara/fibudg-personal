@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect, useCallback, useMemo } from 'react';
-import LaptopImg from '../assets/laptop.png';
+import LaptopImg from '../assets/Laptop.png';
 import ScreenImg from '../assets/screen.png';
 import FiBudgLogo from '../assets/logo.png';
 import MobileScreen from '../assets/mobilescreen.png';
